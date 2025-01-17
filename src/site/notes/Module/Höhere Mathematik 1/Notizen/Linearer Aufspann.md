@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/module/hoehere-mathematik-1/notizen/linearer-aufspann/","tags":["Mathematik","Lineare-Algebra","HM1","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/module/hoehere-mathematik-1/notizen/linearer-aufspann/","tags":["Mathematik","Lineare-Algebra","HM1","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 
