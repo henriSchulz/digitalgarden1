@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/module/hoehere-mathematik-1/notizen/linearer-aufspann/","tags":["Mathematik","Lineare-Algebra","HM1","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/module/hoehere-mathematik-1/notizen/linearer-aufspann/","tags":["Mathematik","Lineare-Algebra","HM1","gardenEntry"]}
 ---
 
 
@@ -54,3 +54,5 @@ $$
 $$
 Wenn $\vec{v} \neq 0$: Der lineare Aufspann ist die Gerade, die $\vec{v}$ bildet
 Wenn $\vec{v}$ und $\vec{w}$ nicht parallel sind, ist der lineare Aufspann die Ebene, die $\vec{v}$ und $\vec{w}$ bilden
+
+[[Module/Höhere Mathematik 1/Notizen/Logarithmus\|Logarithmus]]
