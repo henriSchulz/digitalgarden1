@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"status":"Fertig","tags":["Digitaltechnik","Informationstechnik","Schaltalgebra"],"permalink":"/module/digitaltechnik/notizen/implikation/","dgPassFrontmatter":true}
+{"dg-publish":true,"status":"Fertig","tags":["Digitaltechnik","Informationstechnik","Schaltalgebra","gardenEntry"],"dg-home":true,"permalink":"/module/digitaltechnik/notizen/implikation/","dgPassFrontmatter":true}
 ---
 
 $a,b \in \{ 0,1 \}$ 
